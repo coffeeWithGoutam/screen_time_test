@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "632475303371",
+    "project_id": "parensight-application",
+    "storage_bucket": "parensight-application.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632475303371:android:62c173230ba9d4af7a4a4e",
+        "android_client_info": {
+          "package_name": "com.example.parensight_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4HECpXTpgOheTjg-uNXxiYQ7NinFWDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632475303371:android:c22c3d2bb580a42a7a4a4e",
+        "android_client_info": {
+          "package_name": "com.example.screen_time_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS4HECpXTpgOheTjg-uNXxiYQ7NinFWDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
